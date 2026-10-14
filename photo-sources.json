@@ -1,0 +1,792 @@
+[
+  {
+    "dishId": "food-357",
+    "image": "assets/dishes/e6896b7342531e8f.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9E%D1%81%D1%81%D0%BE%D0%B1%D1%83%D0%BA%D0%BE%20%D1%82%D0%BE%D0%BC%D0%BB%D1%91%D0%BD%D1%8B%D0%B9%20%D0%B2%20%D1%82%D1%91%D0%BC%D0%BD%D0%BE%D0%BC%20%D0%BF%D0%B8%D0%B2%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-234",
+    "image": "assets/dishes/17f5edb30049bec9.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%83%D0%B4%D0%B0%D0%BA%20%D0%BD%D0%B0%20%D0%B6%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%20%D0%B2%20%D1%81%D0%BB%D0%B8%D0%B2%D0%BE%D1%87%D0%BD%D0%BE%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-358",
+    "image": "assets/dishes/9c60b64bdf2fe90a.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A2%D0%B5%D0%BB%D1%8F%D1%82%D0%B8%D0%BD%D0%B0%20%D1%81%20%D0%B3%D1%80%D0%B8%D0%B1%D0%B0%D0%BC%D0%B8.jpg?v=42"
+  },
+  {
+    "dishId": "food-41",
+    "image": "assets/dishes/13eb702bec466561.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%82%D0%B5%D0%B9%D0%BA%20%C2%AB%D0%A0%D0%B8%D0%B1%D0%B0%D0%B9%C2%BB%20%D0%B8%D0%B7%20%D0%BA%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B.jpg?v=42"
+  },
+  {
+    "dishId": "food-355",
+    "image": "assets/dishes/a32492e7c763c39a.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B8%CC%86%20%D1%81%D0%B0%D0%BB%D0%B0%D1%82%20%D0%BD%D0%B0%20%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D0%BE%D0%BC%20%D0%BC%D0%B0%D1%81%D0%BB%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-356",
+    "image": "assets/dishes/e989e30d5c17873c.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%B8%D0%B7%20%D1%82%D0%B5%D0%BB%D1%8F%D1%87%D1%8C%D0%B5%D0%B3%D0%BE%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0.jpg?v=42"
+  },
+  {
+    "dishId": "food-7",
+    "image": "assets/dishes/b135ffb67ef41b02.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A3%D1%81%D1%82%D1%80%D0%B8%D1%86%D1%8B%20Josephine.jpg?v=42"
+  },
+  {
+    "dishId": "food-219",
+    "image": "assets/dishes/a9943d2025410c9a.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A3%D1%81%D1%82%D1%80%D0%B8%D1%86%D1%8B%20%C2%ABMurotsu%20Triptoid%C2%BB.jpg?v=42"
+  },
+  {
+    "dishId": "food-6",
+    "image": "assets/dishes/2a157e7ddb90f6ee.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A3%D1%81%D1%82%D1%80%D0%B8%D1%86%D1%8B%20%C2%ABGillardeau%20N%C2%BA2%C2%BB%20%D0%A3%D1%81%D1%82%D1%80%D0%B8%D1%86%D1%8B%20%C2%ABJosephine%20N%C2%BA2%C2%BB%20MLR05164.jpg?v=42"
+  },
+  {
+    "dishId": "food-310",
+    "image": "assets/dishes/f1161d7e38dbfc0a.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A0%D1%83%D0%BA%D0%BA%D0%BE%D0%BB%D0%B0%20%D1%81%20%D0%BA%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B8%CC%86%20%D0%B3%D1%80%D1%83%D1%88%D0%B5%D0%B8%CC%86.jpg?v=42"
+  },
+  {
+    "dishId": "food-315",
+    "image": "assets/dishes/43e914ef1e79bc6d.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D1%81%20%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D0%B5%D0%BC%20%D0%B8%20%D0%B3%D1%83%D0%B0%D0%BA%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-311",
+    "image": "assets/dishes/197e358ed4c42b69.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%B8%D0%B7%20%D1%82%D1%8B%D0%BA%D0%B2%D1%8B%20%D1%81%20%D0%BA%D0%BE%D0%BF%D1%87%D0%B5%D0%BD%D0%BE%D0%B9%20%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D0%BE%D0%B9.jpg?v=42"
+  },
+  {
+    "dishId": "food-9",
+    "image": "assets/dishes/e989e30d5c17873c.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%B8%D0%B7%20%D1%82%D0%B5%D0%BB%D1%8F%D1%87%D1%8C%D0%B5%D0%B3%D0%BE%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0.jpg?v=42"
+  },
+  {
+    "dishId": "food-104",
+    "image": "assets/dishes/f76254dd1813a67c.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%93%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B8%CC%86%20%D1%81%D0%B0%D0%BB%D0%B0%D1%82%20(1).jpg?v=42"
+  },
+  {
+    "dishId": "food-312",
+    "image": "assets/dishes/88ef1ff7421529af.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD%D0%B5%D0%B7%D0%B5%20%D0%B8%D0%B7%20%D0%BA%D1%83%D1%80%D0%B8%D1%86%D1%8B.jpg?v=42"
+  },
+  {
+    "dishId": "food-10",
+    "image": "assets/dishes/f28842f5fc7ffe19.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%BA%D0%BB%D0%B0%D0%B6%D0%B0%D0%BD%D0%BE%D0%B2%20%D1%81%20%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%BE%D0%BC%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC%20%C2%AB%D0%A1%D1%82%D1%80%D0%B0%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D0%BB%D0%B0%C2%BB%202800%20edit.jpg?v=42"
+  },
+  {
+    "dishId": "food-308",
+    "image": "assets/dishes/1965fdbe0ada4ef7.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D1%81%20%D1%86%D1%8B%D0%BF%D0%BB%D1%91%D0%BD%D0%BA%D0%BE%D0%BC%20BBQ.jpg?v=42"
+  },
+  {
+    "dishId": "food-313",
+    "image": "assets/dishes/8ae860657a1b3e02.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A2%D0%B5%D0%BF%D0%BB%D1%8B%D0%B8%CC%86%20%D1%81%D0%B0%D0%BB%D0%B0%D1%82%20%D1%81%20%D1%85%D1%80%D1%83%D1%81%D1%82%D1%8F%D1%89%D0%B5%D0%B8%CC%86%20%D1%82%D0%B5%D0%BB%D1%8F%D1%82%D0%B8%D0%BD%D0%BE%D0%B8%CC%86.jpg?v=42"
+  },
+  {
+    "dishId": "food-247",
+    "image": "assets/dishes/8a6e890e50f6d235.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%91%D1%80%D1%8B%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%85%D1%80%D1%83%D1%81%D1%82.jpg?v=42"
+  },
+  {
+    "dishId": "food-309",
+    "image": "assets/dishes/a32492e7c763c39a.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B8%CC%86%20%D1%81%D0%B0%D0%BB%D0%B0%D1%82%20%D0%BD%D0%B0%20%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D0%BE%D0%BC%20%D0%BC%D0%B0%D1%81%D0%BB%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-314",
+    "image": "assets/dishes/f92e8ac11456ae34.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%B8%20%D1%81%20%D1%80%D1%83%D0%BA%D0%BA%D0%BE%D0%BB%D0%BE%D0%B8%CC%86%20%D0%B8%20%D0%B0%D0%B2%D0%BE%D0%BA%D0%B0%D0%B4%D0%BE.jpg?v=42"
+  },
+  {
+    "dishId": "food-319",
+    "image": "assets/dishes/9c5055cb31fdd0b2.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%91%D1%80%D0%BE%D1%87%D0%B5%D1%82%D0%B0%D1%81%20%D0%B8%D0%B7%20%D1%82%D0%B5%D0%BB%D1%8F%D1%82%D0%B8%D0%BD%D1%8B.jpg?v=42"
+  },
+  {
+    "dishId": "food-125",
+    "image": "assets/dishes/80dd11c26f919f3e.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%97%D0%B0%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B7%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BA%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%B8.jpg?v=42"
+  },
+  {
+    "dishId": "food-316",
+    "image": "assets/dishes/3e35da478b8138af.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9D%D0%B0%D1%87%D0%BE%D1%81%20%D1%87%D0%B8%D0%BB%D0%B8%20%D0%BA%D0%BE%D0%BD%20%D0%BA%D0%B0%D1%80%D0%BD%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-27",
+    "image": "assets/dishes/b1b8fd9c8932ec1f.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9C%D0%B8%D0%B4%D0%B8%D0%B8%20%D0%B2%20%D1%81%D0%BE%D1%83%D1%81%D0%B5%20%C2%AB%D0%A1%D0%B0%D0%BB%D1%8C%D1%81%D0%B0%20%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%B0%C2%BB%20MLR06797.jpg?v=42"
+  },
+  {
+    "dishId": "food-113",
+    "image": "assets/dishes/676b7a1090752456.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/Fish%20and%20chips.jpg?v=42"
+  },
+  {
+    "dishId": "food-284",
+    "image": "assets/dishes/61a08774c57c8d24.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BA%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D0%B6%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%20%D0%B2%20%D1%81%D0%BB%D0%B8%D0%B2%D0%BE%D1%87%D0%BD%D0%BE%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-180",
+    "image": "assets/dishes/11b895c2019800c0.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%B2%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-221",
+    "image": "assets/dishes/ed3cd9a084c21f0b.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9C%D0%B8%D0%B4%D0%B8%D0%B8%20%D0%B2%20%D1%81%D0%BB%D0%B8%D0%B2%D0%BE%D1%87%D0%BD%D0%BE%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-28",
+    "image": "assets/dishes/3a97dcb5b60a1d07.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%B8%20%C2%AB%D0%9F%D0%B8%D0%BB%D1%8C-%D0%9F%D0%B8%D0%BB%D1%8C%C2%BB%20%D0%B2%20%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D0%BE%D0%BC%20%D0%BC%D0%B0%D1%81%D0%BB%D0%B5%20%D1%81%20%D1%87%D0%B5%D1%81%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC,%20%D0%BF%D0%B0%D0%BF%D1%80%D0%B8%D0%BA%D0%BE%D0%B9%20%D0%B8%20%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B0%D0%BC%D0%B8%20MLR06835.jpg?v=42"
+  },
+  {
+    "dishId": "food-114",
+    "image": "assets/dishes/2df9e1863c96d011.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%B0%D1%80%D1%81%D1%83%D1%8D%D0%BB%D0%B0%20%D0%B8%D0%B7%20%D1%81%D1%83%D0%B4%D0%B0%D0%BA%D0%B0%20(1).jpg?v=42"
+  },
+  {
+    "dishId": "food-318",
+    "image": "assets/dishes/e00e97b598a3ad83.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%91%D1%80%D0%BE%D1%87%D0%B5%D1%82%D0%B0%D1%81%20%D0%B8%D0%B7%20%D0%BA%D0%B0%D0%BB%D1%8C%D0%BC%D0%B0%D1%80%D0%B0.jpg?v=42"
+  },
+  {
+    "dishId": "food-185",
+    "image": "assets/dishes/627730cd3d4c2e39.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%90%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8%20%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%BE%D0%BA%20%D0%B2%20%D0%A5%D0%BE%D1%81%D0%BF%D0%B5%D1%80%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-255",
+    "image": "assets/dishes/2c64f0172e3976b5.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%8B%D1%80%D0%BD%D0%BE%D0%B5%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B0%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-320",
+    "image": "assets/dishes/ae864bd0c3ebfa9e.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9B%D0%BE%D1%81%D0%BE%D1%81%D1%8C%20%D1%81%D0%BB%D0%B0%D0%B1%D0%BE%D0%B9%20%D1%81%D0%BE%D0%BB%D0%B8_1.jpg?v=42"
+  },
+  {
+    "dishId": "food-321",
+    "image": "assets/dishes/11586b44552437a9.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%B5%D0%B2%D0%B8%D1%87%D0%B5%20%D0%B8%D0%B7%20%D1%8D%D1%81%D0%BA%D0%BE%D0%BB%D0%B0%D1%80%D0%B0.jpg?v=42"
+  },
+  {
+    "dishId": "food-13",
+    "image": "assets/dishes/6c77320f2c025bef.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A5%D0%B0%D0%BC%D0%BE%D0%BD.jpg?v=42"
+  },
+  {
+    "dishId": "food-15",
+    "image": "assets/dishes/ac1a210d5e1f7983.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A2%D0%B0%D1%80-%D1%82%D0%B0%D1%80%20%D0%B8%D0%B7%20%D1%82%D1%83%D0%BD%D1%86%D0%B0%20%D1%81%20%D0%BA%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%BC%D0%B8%20%D1%87%D0%B8%D0%BF%D1%81%D0%B0%D0%BC%D0%B8.jpg?v=42"
+  },
+  {
+    "dishId": "food-31",
+    "image": "assets/dishes/e8abc2f9f3138bab.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%93%D0%B0%D1%81%D0%BF%D0%B0%D1%87%D0%BE.jpg?v=42"
+  },
+  {
+    "dishId": "food-322",
+    "image": "assets/dishes/25f381d42df2f9af.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A7%D0%B8%D0%BB%D0%B8%20%D0%9A%D0%BE%D0%BD%20%D0%BA%D0%B0%D1%80%D0%BD%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-30",
+    "image": "assets/dishes/b96548b1ff790b6c.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%20%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BA%D1%83%D1%85%D0%BD%D0%B8%20%D0%A2%D0%BE%D0%BC-%D0%AF%D0%BC%20MLR07451.jpg?v=42"
+  },
+  {
+    "dishId": "food-115",
+    "image": "assets/dishes/16f53ed2417245b7.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4%D0%BE%20%20(1).jpg?v=42"
+  },
+  {
+    "dishId": "food-324",
+    "image": "assets/dishes/2bd73dc4aca39b42.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%90%D1%80%D0%B0%D0%B1%D1%8C%D1%8F%D1%82%D0%B0%20%D0%9E%D1%80%D0%B7%D0%BE.jpg?v=42"
+  },
+  {
+    "dishId": "food-116",
+    "image": "assets/dishes/a2ed84d2689e86cc.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%92%D0%B5%D0%B3%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B0%D1%81%D1%82%D0%B0%20(1).jpg?v=42"
+  },
+  {
+    "dishId": "food-118",
+    "image": "assets/dishes/93068898a8501185.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D1%81%20%D0%BC%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0%D0%BC%D0%B8.jpg?v=42"
+  },
+  {
+    "dishId": "food-323",
+    "image": "assets/dishes/c1bfa46fc6d7eecb.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%90%D0%BB%D0%B8%D0%BE%20%D0%9E%D0%BB%D0%B8%D0%BE.jpg?v=42"
+  },
+  {
+    "dishId": "food-328",
+    "image": "assets/dishes/aafa384355cf12eb.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%91%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D0%BD%D0%BE%20%D0%BF%D0%B8%D0%BB%D1%8C%20%D0%BF%D0%B8%D0%BB%D1%8C%20%D1%81%20%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D0%BE%D0%B8%CC%86%20%D1%8D%D0%BC%D1%83%D0%BB%D1%8C%D1%81%D0%B8%D0%B5%D0%B8%CC%86%20%D0%BF%D0%B5%D1%81%D1%82%D0%BE.jpg?v=42"
+  },
+  {
+    "dishId": "food-282",
+    "image": "assets/dishes/2678303c8a278001.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9E%D1%81%D1%8C%D0%BC%D0%B8%D0%BD%D0%BE%D0%B3%20%D0%BF%D0%BE-%D0%B3%D0%B0%D0%BB%D0%B8%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8.jpg?v=42"
+  },
+  {
+    "dishId": "food-32",
+    "image": "assets/dishes/6c9c42397b5ce8cb.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%94%D0%BE%D1%80%D0%B0%D0%B4%D0%BE%20%D0%B2%20%D0%A5%D0%BE%D1%81%D0%BF%D0%B5%D1%80%D0%B5%20%D1%81%20%D0%B4%D0%B8%D0%BA%D0%B8%D0%BC%20%D1%80%D0%B8%D1%81%D0%BE%D0%BC%20%D0%B8%20%D1%81%D0%B2%D0%B5%D0%B6%D0%B8%D0%BC%D0%B8%20%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B0%D0%BC%D0%B8%20MLR07121.jpg?v=42"
+  },
+  {
+    "dishId": "food-271",
+    "image": "assets/dishes/17f5edb30049bec9.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%83%D0%B4%D0%B0%D0%BA%20%D0%BD%D0%B0%20%D0%B6%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%20%D0%B2%20%D1%81%D0%BB%D0%B8%D0%B2%D0%BE%D1%87%D0%BD%D0%BE%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-34",
+    "image": "assets/dishes/0e1d0da84faad76c.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F%20%D1%81%20%D0%BC%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0%D0%BC%D0%B8%20%D0%B8%20%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%BB%D0%B0%D0%BC%D0%B8%20%D0%BA%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D1%82%D0%B8%D1%86%D1%8B%20MLR06748.jpg?v=42"
+  },
+  {
+    "dishId": "food-119",
+    "image": "assets/dishes/5b247e2526af00ff.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%82%D0%B5%D0%B8%CC%86%D0%BA%20%D0%B8%D0%B7%20%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D1%8F.jpg?v=42"
+  },
+  {
+    "dishId": "food-38",
+    "image": "assets/dishes/1219e9b77b0963e1.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A2%D0%BE%D0%BC%D0%BB%D1%91%D0%BD%D1%8B%D0%B5%20%D0%B3%D0%BE%D0%B2%D1%8F%D0%B6%D1%8C%D0%B8%20%D1%89%D1%91%D0%BA%D0%B8%20%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D0%B5%D0%BC%20%D0%B8%20%D0%B3%D1%80%D0%B8%D0%B1%D0%BD%D0%BE%D0%B9%20%D1%8D%D1%81%D0%BF%D1%83%D0%BC%D0%BE%D0%B9%20edit.jpg?v=42"
+  },
+  {
+    "dishId": "food-287",
+    "image": "assets/dishes/06ce39f430840f81.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%91%D1%80%D0%B8%D1%81%D0%BA%D0%B5%D1%82-%D1%81%D1%8D%D0%BD%D0%B4%D0%B2%D0%B8%D1%87.jpg?v=42"
+  },
+  {
+    "dishId": "food-258",
+    "image": "assets/dishes/9c60b64bdf2fe90a.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A2%D0%B5%D0%BB%D1%8F%D1%82%D0%B8%D0%BD%D0%B0%20%D1%81%20%D0%B3%D1%80%D0%B8%D0%B1%D0%B0%D0%BC%D0%B8.jpg?v=42"
+  },
+  {
+    "dishId": "food-40",
+    "image": "assets/dishes/9a4a903636e5cc47.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F%20%D1%81%20%D0%BC%D1%8F%D1%81%D0%BE%D0%BC%20%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE%20%D1%86%D1%8B%D0%BF%D0%BB%D0%B5%CC%88%D0%BD%D0%BA%D0%B0%20edit.jpg?v=42"
+  },
+  {
+    "dishId": "food-288",
+    "image": "assets/dishes/e6896b7342531e8f.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9E%D1%81%D1%81%D0%BE%D0%B1%D1%83%D0%BA%D0%BE%20%D1%82%D0%BE%D0%BC%D0%BB%D1%91%D0%BD%D1%8B%D0%B9%20%D0%B2%20%D1%82%D1%91%D0%BC%D0%BD%D0%BE%D0%BC%20%D0%BF%D0%B8%D0%B2%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-329",
+    "image": "assets/dishes/e06179534b096a60.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%91%D0%B0%D0%BB%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%20%D0%B8%D0%B7%20%D0%BA%D1%83%D1%80%D0%B8%D1%86%D1%8B%20%D1%81%20%D0%BE%D0%B2%D0%BE%D1%89%D0%B0%D0%BC%D0%B8%20%D0%B8%20%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D0%BE-%D0%BA%D0%BE%D0%BA%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B8%CC%86%20%D1%8D%D0%BC%D1%83%D0%BB%D1%8C%D1%81%D0%B8%D0%B5%D0%B8%CC%86.jpg?v=42"
+  },
+  {
+    "dishId": "food-236",
+    "image": "assets/dishes/4c947f462b562917.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9C%D1%8F%D1%81%D0%BD%D0%BE%D0%B9%20%D0%B4%D1%83%D1%8D%D1%82.jpg?v=42"
+  },
+  {
+    "dishId": "food-278",
+    "image": "assets/dishes/40faa5269ae27c9e.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%93%D0%BE%D0%B2%D1%8F%D0%B6%D1%8C%D0%B8%20%D1%80%D0%B5%D0%B1%D1%80%D1%8B%D1%88%D0%BA%D0%B8%20%D0%B2%20%D1%81%D0%BE%D1%83%D1%81%D0%B5%20BBQ.jpg?v=42"
+  },
+  {
+    "dishId": "food-127",
+    "image": "assets/dishes/4e8e9f0ed67d9707.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A2%D0%B0%D0%BA%D0%BE%20%D0%91%D1%80%D0%B8%D1%81%D0%BA%D0%B5%D1%82.jpg?v=42"
+  },
+  {
+    "dishId": "food-331",
+    "image": "assets/dishes/1887002d286b4100.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9F%D0%B5%D1%87%D0%B5%D0%BD%D0%B0%D1%8F%20%D1%80%D1%83%D0%BB%D1%8C%D0%BA%D0%B0%20%D1%8F%D0%B3%D0%BD%D0%B5%D0%BD%D0%BA%D0%B0.jpg?v=42"
+  },
+  {
+    "dishId": "food-286",
+    "image": "assets/dishes/8967a079ace7da28.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/Choice%20Brisket.jpg?v=42"
+  },
+  {
+    "dishId": "food-36",
+    "image": "assets/dishes/fec2e8fdaf2212f8.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C%D0%BE%D0%BD%D1%8B%20%D0%B8%D0%B7%20%D1%82%D0%B5%D0%BB%D1%8F%D1%82%D0%B8%D0%BD%D1%8B%20%D1%81%20%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B0%D0%BC%D0%B8%20%D0%B8%20%C2%AB%D0%9C%D0%BE%D1%86%D0%B0%D1%80%D0%B5%D0%BB%D0%BB%D0%BE%D0%B9%C2%BBMLR06033.jpg?v=42"
+  },
+  {
+    "dishId": "food-332",
+    "image": "assets/dishes/7ed28bc38b2511df.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D0%B0%D1%80%D0%B5%20%D1%8F%D0%B3%D0%BD%D0%B5%D0%BD%D0%BA%D0%B0%20%D0%B2%20%D1%8F%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%B5%20%D0%B2%20%D1%84%D0%B8%D1%81%D1%82%D0%B0%D1%88%D0%BA%D0%BE%D0%B2%D0%BE%20%D0%B2%D0%B8%D1%88%D0%B5%D0%BD%D0%BE%D0%B2%D0%BE%D0%B8%CC%86%20%D0%BF%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-289",
+    "image": "assets/dishes/712baaf2ee48bd5d.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%82%D0%B5%D0%B9%D0%BA%20%C2%AB%D0%A0%D0%B8%D0%B1%D0%B0%D0%B9%C2%BB%20%D0%B8%D0%B7%20%D0%BC%D1%80%D0%B0%D0%BC%D0%BE%D1%80%D0%BD%D0%BE%D0%B9%20%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B%20MLR07364.jpg?v=42"
+  },
+  {
+    "dishId": "food-272",
+    "image": "assets/dishes/b5bf1e5795e88ab9.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%82%D0%B5%D0%B9%D0%BA%20%C2%AB%D0%A1%D1%82%D1%80%D0%B8%D0%BF%D0%BB%D0%BE%D0%B9%D0%BD%C2%BB%20%D0%B8%D0%B7%20%D0%BC%D1%80%D0%B0%D0%BC%D0%BE%D1%80%D0%BD%D0%BE%D0%B9%20%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B%20MLR07376.jpg?v=42"
+  },
+  {
+    "dishId": "food-43",
+    "image": "assets/dishes/af78bc27637efe98.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%82%D0%B5%D0%B9%D0%BA%20%C2%AB%D0%A4%D0%B8%D0%BB%D0%B5%20%D0%9C%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%C2%BB%20%D1%81%20%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%BE%D0%BC%20MLR07052.jpg?v=42"
+  },
+  {
+    "dishId": "food-44",
+    "image": "assets/dishes/860bef487fe58723.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%82%D0%B5%D0%B9%D0%BA%20%C2%AB%D0%A0%D0%B8%D0%B1%D0%B0%D0%B9%C2%BB%20%D0%B8%D0%B7%20%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B%20%C2%ABDRY%20AGE%C2%BB%20MLR07361.jpg?v=42"
+  },
+  {
+    "dishId": "food-275",
+    "image": "assets/dishes/13eb702bec466561.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%82%D0%B5%D0%B9%D0%BA%20%C2%AB%D0%A0%D0%B8%D0%B1%D0%B0%D0%B9%C2%BB%20%D0%B8%D0%B7%20%D0%BA%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B.jpg?v=42"
+  },
+  {
+    "dishId": "food-337",
+    "image": "assets/dishes/cc4dbcd67bd9035f.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%BB%D0%B8%D0%B2%D0%BE%D1%87%D0%BD%D0%BE-%D1%87%D0%B5%D1%81%D0%BD%D0%BE%D1%87%D0%BD%D1%8B%D0%B8%CC%86%20%D1%81%D0%BE%D1%83%D1%81.jpg?v=42"
+  },
+  {
+    "dishId": "food-57",
+    "image": "assets/dishes/f9fddabc13d20cce.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%BE%D1%83%D1%81%20%D0%93%D1%80%D0%B8%D0%B1%D0%BD%D0%BE%D0%B9.jpg?v=42"
+  },
+  {
+    "dishId": "food-333",
+    "image": "assets/dishes/7341101a876acb7f.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%BE%D1%83%D1%81%20%D0%94%D0%B5%D0%BC%D0%B8%D0%B3%D0%BB%D0%B0%D1%81.jpg?v=42"
+  },
+  {
+    "dishId": "food-338",
+    "image": "assets/dishes/fd0a93dcd03b6270.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%93%D0%BE%D1%80%D1%87%D0%B8%D1%86%D0%B0.jpg?v=42"
+  },
+  {
+    "dishId": "food-58",
+    "image": "assets/dishes/6ea22c5ee5229383.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%BE%D1%83%D1%81%20%D0%91%D1%80%D0%B0%D0%B2%D0%B0%D1%81.jpg?v=42"
+  },
+  {
+    "dishId": "food-334",
+    "image": "assets/dishes/e301401ecaef53d7.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%BE%D1%83%D1%81%20%D1%82%D0%B5%D1%80%D0%B8%D1%8F%D0%BA%D0%B8.jpg?v=42"
+  },
+  {
+    "dishId": "food-339",
+    "image": "assets/dishes/c55b3ba263bafbe6.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9C%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE-%D0%B3%D0%BE%D1%80%D1%87%D0%B8%D1%87%D0%BD%D1%8B%D0%B8%CC%86%20%D1%81%D0%BE%D1%83%D1%81.jpg?v=42"
+  },
+  {
+    "dishId": "food-239",
+    "image": "assets/dishes/6e0a6471e320f552.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%91%D1%80%D1%83%D1%81%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B9.jpg?v=42"
+  },
+  {
+    "dishId": "food-59",
+    "image": "assets/dishes/20e3debbcc8a30ee.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%BE%D1%83%D1%81%20BBQ.jpg?v=42"
+  },
+  {
+    "dishId": "food-335",
+    "image": "assets/dishes/67f8a9183464edc2.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D0%B5%D1%82%D1%87%D1%83%D0%BF.jpg?v=42"
+  },
+  {
+    "dishId": "food-56",
+    "image": "assets/dishes/4637498a30da0cbc.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D0%BE%D1%83%D1%81%20%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%B9.jpg?v=42"
+  },
+  {
+    "dishId": "food-291",
+    "image": "assets/dishes/270003d8203d9ea1.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A7%D0%B8%D0%BC%D0%B8%D1%87%D1%83%D1%80%D0%B8.jpg?v=42"
+  },
+  {
+    "dishId": "food-52",
+    "image": "assets/dishes/98675e5d23e65189.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/rise%20edit.jpg?v=42"
+  },
+  {
+    "dishId": "food-53",
+    "image": "assets/dishes/ac12e7f3d79c0217.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9E%D0%B2%D0%BE%D1%89%D0%B8%20%D0%BD%D0%B0%20%D0%93%D1%80%D0%B8%D0%BB%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-54",
+    "image": "assets/dishes/6cdc931c042ab7c9.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9F%D0%B0%D1%82%D0%B0%D1%82%D0%B0%D1%81%20%D0%91%D1%80%D0%B0%D0%B2%D0%B0%D1%81.jpg?v=42"
+  },
+  {
+    "dishId": "food-340",
+    "image": "assets/dishes/8f5d3f1e54dbb582.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D1%83%D0%BA%D1%83%D1%80%D1%83%D0%B7%D0%B0%20%D0%BF%D0%BE%D0%B4%20%D0%BF%D0%B0%D1%80%D0%BC%D0%B5%D0%B7%D0%B0%D0%BD%D0%BE%D0%BC.jpg?v=42"
+  },
+  {
+    "dishId": "food-128",
+    "image": "assets/dishes/79a3bb534c09fec7.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A8%D0%BF%D0%B8%D0%BD%D0%B0%D1%82%20%D0%B2%20%D1%81%D0%BB%D0%B8%D0%B2%D0%BE%D1%87%D0%BD%D0%BE%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-123",
+    "image": "assets/dishes/44d82d5847fccd8c.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/frenchf.jpg?v=42"
+  },
+  {
+    "dishId": "food-341",
+    "image": "assets/dishes/6e6bfb8b307b36fe.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%8E%D1%80%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-124",
+    "image": "assets/dishes/59c5ac9e48f67d42.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A2%D0%B0%D0%BF%D0%B0%D1%81%20%D0%A1%20%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B0%D0%BC%D0%B8,%20%D1%87%D0%B5%D1%81%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC,%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC%20%C2%AB%D0%9C%D0%B0%D0%BD%D1%87%D0%B5%D0%B3%D0%BE%C2%BB%20%D0%B8%20%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D0%BC%20MLR05770.jpg?v=42"
+  },
+  {
+    "dishId": "food-102",
+    "image": "assets/dishes/ae635f018dba72d4.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A2%D0%B0%D0%BF%D0%B0%D1%81%20%D0%A1%20%D0%BA%D0%BE%D0%BF%D1%87%D0%B5%CC%88%D0%BD%D0%BE%D0%B8%CC%86%20%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D0%BE%D0%B8%CC%86,%20%D0%B2%D1%8F%D0%BB%D0%B5%D0%BD%D1%8B%D0%BC%D0%B8%20%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B0%D0%BC%D0%B8%20%D0%B8%20%D1%81%D0%BE%D1%83%D1%81%D0%BE%D0%BC%20%C2%AB%D0%A2%D0%B5%D1%80%D0%B8%D1%8F%D0%BA%D0%B8%C2%BB%20edit.jpg?v=42"
+  },
+  {
+    "dishId": "food-2",
+    "image": "assets/dishes/b9e6d0356cc54ad3.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A2%D0%B0%D0%BF%D0%B0%D1%81%20%D0%A1%20%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%BC%20%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D0%B5%D0%BC%20%D0%BF%D1%80%D1%8F%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BE%D1%81%D0%BE%D0%BB%D0%B0%20MLR05768.jpg?v=42"
+  },
+  {
+    "dishId": "food-186",
+    "image": "assets/dishes/181ca41366479c89.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9B%D0%BE%D0%B1%D1%81%D1%82%D0%B5%D1%80.jpg?v=42"
+  },
+  {
+    "dishId": "food-281",
+    "image": "assets/dishes/a9943d2025410c9a.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A3%D1%81%D1%82%D1%80%D0%B8%D1%86%D1%8B%20%C2%ABMurotsu%20Triptoid%C2%BB.jpg?v=42"
+  },
+  {
+    "dishId": "food-279",
+    "image": "assets/dishes/2a157e7ddb90f6ee.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A3%D1%81%D1%82%D1%80%D0%B8%D1%86%D1%8B%20%C2%ABGillardeau%20N%C2%BA2%C2%BB%20%D0%A3%D1%81%D1%82%D1%80%D0%B8%D1%86%D1%8B%20%C2%ABJosephine%20N%C2%BA2%C2%BB%20MLR05164.jpg?v=42"
+  },
+  {
+    "dishId": "food-280",
+    "image": "assets/dishes/b135ffb67ef41b02.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A3%D1%81%D1%82%D1%80%D0%B8%D1%86%D1%8B%20Josephine.jpg?v=42"
+  },
+  {
+    "dishId": "food-133",
+    "image": "assets/dishes/22bf4b2d8a353767.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A8%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4.jpg?v=42"
+  },
+  {
+    "dishId": "food-134",
+    "image": "assets/dishes/6a1ab2fd6579c2f6.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D1%83%D1%80%D0%B0%D0%B3%D0%B0%20%D1%81%20%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D0%BB%D0%B8%D0%B2%D0%BE%D0%BC.jpg?v=42"
+  },
+  {
+    "dishId": "food-135",
+    "image": "assets/dishes/a5e47996ad3bd2ec.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9C%D0%B8%D0%BD%D0%B4%D0%B0%D0%BB%D1%8C.jpg?v=42"
+  },
+  {
+    "dishId": "food-136",
+    "image": "assets/dishes/83142b5a2b28dc1e.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9E%D1%80%D0%B5%D1%85%D0%B8%20%D0%91%D0%B0%D0%B4%D0%B0%D0%BC.jpg?v=42"
+  },
+  {
+    "dishId": "food-137",
+    "image": "assets/dishes/f5eca994e1c11fcc.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9E%D1%80%D0%B5%D1%85%D0%B8%20%D0%B3%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-21",
+    "image": "assets/dishes/884dd3a13eb8f7a9.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%92%D1%8F%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BD%D0%B8%D0%BD%D0%B0.jpg?v=42"
+  },
+  {
+    "dishId": "food-276",
+    "image": "assets/dishes/3f5e364b99169acd.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%B8%20%D0%BA%20%D0%BF%D0%B8%D0%B2%D1%83%20%D0%B6%D0%B0%D1%80%D0%B5%D0%BD%D1%8B%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-139",
+    "image": "assets/dishes/159a9963bf655abc.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A7%D0%B5%D1%87%D0%B8%D0%BB%20%D0%B6%D0%B0%D1%80%D0%B5%D0%BD%D1%8B%D0%B9.jpg?v=42"
+  },
+  {
+    "dishId": "food-109",
+    "image": "assets/dishes/0a784dfa6c62af90.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%93%D0%B0%D1%80%D0%BB%D0%B8%D0%BA%D0%B8%20%D1%81%20%D1%81%D0%BE%D1%83%D1%81%D0%BE%D0%BC%20%D1%82%D0%B0%D1%80%D1%82%D0%B0%D1%80%20(1).jpg?v=42"
+  },
+  {
+    "dishId": "food-293",
+    "image": "assets/dishes/1392834d72254607.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%94%D0%B6%D0%B5%D1%80%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D0%BA%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B.jpg?v=42"
+  },
+  {
+    "dishId": "food-22",
+    "image": "assets/dishes/b5a60f47dc95b3f7.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%91%D0%B0%D1%81%D1%82%D1%83%D1%80%D0%BC%D0%B0%20%D0%B8%D0%B7%20%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B.jpg?v=42"
+  },
+  {
+    "dishId": "food-277",
+    "image": "assets/dishes/653ca96acc0f27f3.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%B8%20%D0%BA%20%D0%BF%D0%B8%D0%B2%D1%83%20%D0%B2%D0%B0%D1%80%D0%B5%D0%BD%D1%8B%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-111",
+    "image": "assets/dishes/5a4db6ea182afb93.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/phistashkas.jpg?v=42"
+  },
+  {
+    "dishId": "food-106",
+    "image": "assets/dishes/bb2a261aa69a66e3.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%90%D1%80%D0%B0%D1%85%D0%B8%D1%81%20%D1%81%D0%BE%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9.jpg?v=42"
+  },
+  {
+    "dishId": "food-20",
+    "image": "assets/dishes/3fc4c7d053039f11.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%83%D0%B4%D0%B6%D1%83%D0%BA.jpg?v=42"
+  },
+  {
+    "dishId": "food-107",
+    "image": "assets/dishes/66adfd4c8451c9d7.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/cheese.jpg?v=42"
+  },
+  {
+    "dishId": "food-226",
+    "image": "assets/dishes/babdfa94130422f4.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D0%B0%D0%B7%D1%8B%20%D0%BA%D0%BE%D0%BF%D1%87%D0%B5%D0%BD%D1%8B%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-51",
+    "image": "assets/dishes/36c9d35492c19645.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9E%D0%BB%D0%B8%D0%B2%D0%BA%D0%B8%20%D0%B2%20%D0%B0%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-351",
+    "image": "assets/dishes/2e229ac402441805.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%B5%D1%88%D0%B5%D0%BD%D0%BA%D0%B8.jpg?v=42"
+  },
+  {
+    "dishId": "food-46",
+    "image": "assets/dishes/ac446520fdda8227.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%90%D1%80%D1%82%D0%B8%D1%88%D0%BE%D0%BA%D0%B8.jpg?v=42"
+  },
+  {
+    "dishId": "food-178",
+    "image": "assets/dishes/599b651f320d7203.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%90%D0%BF%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD.jpg?v=42"
+  },
+  {
+    "dishId": "food-347",
+    "image": "assets/dishes/6f5bc5e040001b3b.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%D1%88%D0%BE%D0%BD%D1%8B.jpg?v=42"
+  },
+  {
+    "dishId": "food-47",
+    "image": "assets/dishes/3dcb806d9bd34654.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D0%B0%D0%BF%D0%B5%D1%80%D1%81%D1%8B.jpg?v=42"
+  },
+  {
+    "dishId": "food-179",
+    "image": "assets/dishes/32cbd9b45f64ba2c.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4.jpg?v=42"
+  },
+  {
+    "dishId": "food-348",
+    "image": "assets/dishes/f08490cd6b7aaef9.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D0%B2%D0%B0%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B0.jpg?v=42"
+  },
+  {
+    "dishId": "food-349",
+    "image": "assets/dishes/4b58c837cfa22d73.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B8%CC%86%20%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B8%CC%86%20%D0%BB%D1%83%D0%BA.jpg?v=42"
+  },
+  {
+    "dishId": "food-50",
+    "image": "assets/dishes/ac61db0afbc32189.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9F%D1%80%D0%BE%D1%88%D1%83%D1%82%D1%82%D0%BE%20%D0%9A%D1%80%D1%83%D0%B4%D0%BE.jpg?v=42"
+  },
+  {
+    "dishId": "food-45",
+    "image": "assets/dishes/0dd8713d4c4ece16.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%92%D1%8F%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5%20%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D1%8B.jpg?v=42"
+  },
+  {
+    "dishId": "food-177",
+    "image": "assets/dishes/79bd5ac1bc929f91.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BA%D0%BE%20%D1%81%D0%B2%D0%B5%D0%B6%D0%B5%D0%B5.jpg?v=42"
+  },
+  {
+    "dishId": "food-17",
+    "image": "assets/dishes/6ecacb4566f3be52.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%8B%D1%80%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BB%D0%B0%D1%82%D0%BE%20%D1%81%20%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%BC%D0%B8%20%D1%81%D1%8B%D1%80%D0%B0%D0%BC%D0%B8%20%C2%AB%D0%9C%D0%B0%D0%BD%D1%87%D0%B5%D0%B3%D0%BE%C2%BB%20MLR06984.jpg?v=42"
+  },
+  {
+    "dishId": "food-18",
+    "image": "assets/dishes/ea058285c2269288.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%90%D0%BD%D1%82%D0%B8%D0%BF%D0%B0%D1%81%D1%82%D0%BE.%20%D0%A1%D1%8B%D1%80%20%D0%94%D0%BE%D1%80%20%D0%B1%D0%BB%D1%8E,%20%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%B8,%20%D0%B2%D1%8F%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5%20%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D1%8B,%20%D1%81%D1%8B%D1%80%D0%BE%D0%B2%D1%8F%D0%BB%D0%B5%D0%BD%D0%BE%D0%B5%20%D0%BC%D1%8F%D1%81%D0%BE%20%D0%B8%20%D0%BA%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B3%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%BE%D1%80%D0%B5%D1%85%20MLR07067.jpg?v=42"
+  },
+  {
+    "dishId": "food-49",
+    "image": "assets/dishes/574a724756c3cc99.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A1%D1%8B%D1%80%20%D0%BE%D0%B2%D0%B5%D1%87%D0%B8%D0%B9%20%D1%81%20%D1%87%D0%B5%D1%81%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC.jpg?v=42"
+  },
+  {
+    "dishId": "food-19",
+    "image": "assets/dishes/9e826e169b0a41b1.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9C%D1%8F%D1%81%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BB%D0%B0%D1%82%D0%BE%20%D0%B8%D0%B7%20%D0%BA%D0%BE%D0%BF%D1%87%D1%91%D0%BD%D1%8B%D1%85%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%B2%D1%8F%D0%BB%D0%B5%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%B5%D1%81%D0%BE%D0%B2%20(%D0%B2%D1%8F%D0%BB%D0%B5%D0%BD%D0%BE%D0%B5%20%D0%BC%D1%8F%D1%81%D0%BE%20%D0%BA%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B,%20%D0%BA%D0%B0%D0%B7%D1%8B%20%D1%81%D1%8B%D1%80%D0%BE%D0%B2%D1%8F%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5,%20%D1%81%D1%83%D0%B4%D0%B6%D1%83%D0%BA,%20%D0%B1%D0%B0%D1%81%D1%82%D1%83%D1%80%D0%BC%D0%B0)%20MLR07065.jpg?v=42"
+  },
+  {
+    "dishId": "food-213",
+    "image": "assets/dishes/bb3f3648534e4acc.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/Green%20Olives%20Autentic%20greek%20taste%20%D1%81%20%D0%BA%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%BE%D0%B9%20(250%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-214",
+    "image": "assets/dishes/f82d082546a96137.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/Green%20Olives%20Autentic%20greek%20taste%20%D0%B1%D0%B5%D0%B7%20%D0%BA%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20(250%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-215",
+    "image": "assets/dishes/da18073e6dd10a2e.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/Black%20Olives%20Autentic%20greek%20taste%20%D1%81%20%D0%BA%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%BE%D0%B9%20(250%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-198",
+    "image": "assets/dishes/26d25f2a062f23ee.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Manchego%20Semicurado,%20%D0%B2%D1%8B%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%203%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0%20(150%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-212",
+    "image": "assets/dishes/f6cb31cda648b98e.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/Garcia%20Baquero%20Queso%20de%20Cabra%20(150%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-203",
+    "image": "assets/dishes/e1badacb9fa428b1.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Rulo%20de%20Queso%20Cabra%20Pina%20(110%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-208",
+    "image": "assets/dishes/83609e8bea1467a6.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Perlas%20de%20Queso%20con%20Pesto%20(125%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-199",
+    "image": "assets/dishes/fa82cc5c2f0998c9.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20con%20Romero%20%D0%B2%D1%8B%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%2012%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2%20(175%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-204",
+    "image": "assets/dishes/ca6a901be9a1b772.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Rulo%20de%20Queso%20Cabra%20con%20Pimienta%20negra%20(110%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-195",
+    "image": "assets/dishes/08e175f246ac0eba.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Manchego,%20%D0%B2%D1%8B%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%206%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2%20(150%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-220",
+    "image": "assets/dishes/1cefdc5eff8db42a.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Trio%20Seleccion.jpg?v=42"
+  },
+  {
+    "dishId": "food-209",
+    "image": "assets/dishes/2bf8969b2cefee95.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Trio%20con%20Romero,%20con%20Trufa,%20Reserva%20(150%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-200",
+    "image": "assets/dishes/e0e6ed3b356ac0f5.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Semicurado%20%D0%B2%D1%8B%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%2075%20%D0%B4%D0%BD%D0%B5%D0%B9%20(140%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-205",
+    "image": "assets/dishes/62152b90b0a248e2.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Rulo%20de%20Queso%20Cabra%20con%20finas%20hierbas%20(110%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-196",
+    "image": "assets/dishes/4551a10920fd3b4c.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Pata%20De%20Cabra%20Fresco,%20%D0%B2%D1%8B%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%2060%20%D0%B4%D0%BD%D0%B5%D0%B9%20(125%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-210",
+    "image": "assets/dishes/c5641b81ff250e77.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/Garcia%20Baquero%20La%20Cava%20Artes%20%D0%B2%D1%8B%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%203,5%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0%20(250%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-201",
+    "image": "assets/dishes/dfa070b8285201b4.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Rulo%20de%20Queso%20Cabra%20Honey%20(110%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-206",
+    "image": "assets/dishes/a0ba2e7aa6ee83c9.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Queso%20Pastor,%20Gran%20Reserva,%20Ruffino,%2012%20%D0%BC%D0%B5%D1%81.%20(150%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-197",
+    "image": "assets/dishes/a90d8687e02368dc.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Queso%20Pastor,%20Gran%20Reserva,%20Pata%20Vieja,%2012%20%D0%BC%D0%B5%D1%81.%20(200%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-211",
+    "image": "assets/dishes/a06cf581b1e0eca0.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/Garcia%20Baquero%20Manchego%20Curado%20%D0%B2%D1%8B%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%204%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0%20(150%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-202",
+    "image": "assets/dishes/9b193c9e0659876b.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Rulo%20de%20Queso%20Cabra%20con%20Papaya%20(110%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-207",
+    "image": "assets/dishes/f75445d163b31710.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/El%20Pastor%20Tierno,%20sin%20lactosa%20(80%20%D0%B3%D1%80).jpg?v=42"
+  },
+  {
+    "dishId": "food-144",
+    "image": "assets/dishes/96a3506e2fd04dbf.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%87%D0%B8%D0%B7%D0%BA%D0%B5%D0%B9%D0%BA.jpg?v=42"
+  },
+  {
+    "dishId": "food-294",
+    "image": "assets/dishes/e3eb1004368ca16d.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%93%D1%80%D1%83%D1%88%D0%B0%20%D0%BF%D0%B0%D1%88%D0%BE%D1%82%20%D0%B2%20%D0%B2%D0%B8%D0%BD%D0%B5%20%D1%81%20%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B9%20%D0%BF%D0%BE%D1%81%D1%8B%D0%BF%D0%BA%D0%BE%D0%B9.jpg?v=42"
+  },
+  {
+    "dishId": "food-145",
+    "image": "assets/dishes/eaaff262c40d6a02.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A8%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B8%CC%86%20%D0%B1%D1%80%D0%B0%D1%83%D0%BD%D0%B8%202%20(1).jpg?v=42"
+  },
+  {
+    "dishId": "food-146",
+    "image": "assets/dishes/3de438c094690197.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/ice.jpg?v=42"
+  },
+  {
+    "dishId": "food-218",
+    "image": "assets/dishes/fbff3fc5350a970c.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%87%D0%B8%D0%B7%D0%BA%D0%B5%D0%B9%D0%BA%20%D0%A1%D0%B0%D0%BD-%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD.jpg?v=42"
+  },
+  {
+    "dishId": "food-65",
+    "image": "assets/dishes/43fd52ffbba6784e.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%90%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8%20%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D1%85%20%D0%B1%D1%83%D0%BB%D0%BE%D1%87%D0%B5%D0%BA%20MLR05903.jpg?v=42"
+  },
+  {
+    "dishId": "food-64",
+    "image": "assets/dishes/c188aedfea506e49.jpg",
+    "source": "https://rojo.kz/src/img/smallMenu/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%B0%D0%B3%D0%B5%D1%82%20%D1%81%20%D1%87%D0%B5%D1%81%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9%20MLR06673.jpg?v=42"
+  }
+]
